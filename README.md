@@ -1,0 +1,2 @@
+# tesnet
+for testnet aleo
